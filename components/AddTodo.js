@@ -33,6 +33,6 @@ const styles = StyleSheet.create({
         borderBottomWidth: 1,
         borderBottomColor: '#ddd'
     }
-});
+})
 
 export default AddTodo;
